@@ -1,4 +1,4 @@
-## Hi! My name is Guilherme Yokokura, programmer crazy for knowledge.
+## Hi! My name is Guilherme Yokokura.
 <div align="center">
   <a href="https://github.com/gtadayukey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gtadayukey&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
