@@ -36,14 +36,6 @@
 <br/>
 <hr/>
 
- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  
-  
-  <br/><br/><br/>
-</div>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
