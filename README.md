@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **C#** and **.NET**
 
-💬 Ask me about **Databases, SQL, Postgresql, C#... or anything [here]()**
+💬 Ask me about **Databases, SQL, Postgresql, C#... or anything [here](https://github.com/gtadayukey/gtadayukey/issues/1)**
 
 ⚡ Fun fact **I played competitive games as a professional on Mobile, PS4 and PC**
 
